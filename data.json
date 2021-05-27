@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Will Smith",
+        "age" : "28",
+        "profession" : "actor",
+        "hobby" : "acting",
+        "image" : "will_smith"
+    },
+    {
+        "name" : "Steve Jobs",
+        "age" : "27",
+        "profession" : "entreprenaur",
+        "hobby" : "computers",
+        "image" : "steve_jobs"
+    },
+    {
+        "name" : "Mr Bean",
+        "age" : "28",
+        "profession" : "comedian",
+        "hobby" : "comedy",
+        "image" : "mr_bean"
+    }
+]
